@@ -24,7 +24,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 [1. Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### B.读书笔记
-[1. Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[1. 读启示录,简洁直接](https://github.com/raul-coder/raul-coder.github.io/wiki/%E5%90%AF%E7%A4%BA%E5%BD%95-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0)
 ### C.生活感悟
 [1. Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 ### D.周记
